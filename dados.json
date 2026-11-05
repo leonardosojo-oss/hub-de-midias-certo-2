@@ -1,21 +1,21 @@
 [
     {
         "id":1,
-        "titulo":"Reacher",
+        "titulo":"Menalista",
         "categoria":"Série",
-        "plataforma":"Amazon Prime Video",
+        "plataforma":"Netflix",
         "nota":9,
         "status":"Assistido",
-        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yut6vkpL-Pg1rg0f5wi13VF2_03C6f-GlN7u-A2LVw&s=10"
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRle18g0HCpa2buuKbwY0Co2LqnSpOrDNHap8Bc09Pjzw&s=10"
     },
     {
          "id":2,
-        "titulo":"Bob Esponja",
+        "titulo":"Suits",
         "categoria":"Série",
-        "plataforma":"Hbo Max",
+        "plataforma":"Netflix",
         "nota":9,
         "status":"Assistido",
-        "capa":"https://upload.wikimedia.org/wikipedia/commons/7/78/SpongeBob_SquarePants_with_2023_Nickelodeon_Logo.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original"
+        "capa":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDjfX36HLOI2nIJ0Oe6ZFnja6ByzcnUPBQmMSXgTHtHA&s=10"
         },
         {
             "id":3,
